@@ -1,0 +1,5 @@
+tea cozy planning
+spec: https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg
+html cheatsheet: https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet
+css cheatsheet: https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet
+flexbox cheatsheet: https://www.codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-making-a-website-responsive/modules/wdcp-22-layout-with-flexbox-8a62abed-21fe-442a-8d4d-2b84f3d4ee3a/cheatsheet
